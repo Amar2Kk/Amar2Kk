@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Ammar2k"><img src="https://github.com/Amar2Kk/Amar2Kk/blob/main/devcard.svg" width="400" alt="Ammar Abbas's Dev Card"/></a>
+<a href="https://app.daily.dev/Ammar2k"><img src="https://github.com/Amar2Kk/Amar2Kk/blob/main/devcard.svg" width="200" alt="Ammar Abbas's Dev Card"/></a>
 
 # 💫 About Me:
 🔭 I’m a Full-stack MERN Developer<br>👯 I’m looking to collaborate on a web application project.<br>🌱 currently learning TypeScript - Discord.js 
