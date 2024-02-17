@@ -6,13 +6,13 @@ Hi 👋 My name is Ammar Abbas
 a Full-stack Web Developer
 --------------------------
 
-I've been learning to code for 2 years, after switching careers. I started with learning web development, but have really found a passion for IOS development.
+Full Stack Web Developer with a strong background in front-end development, including HTML, CSS, JavaScript, TypeScript, React.js, and Next.js. Proficient in crafting sleek UIs with TailwindCSS. Backend skills include Node.js and Express.js, with proficiency in database management using MongoDB and MySQL.
 
-* 🌍  I'm based in Cairo
+* 🌍  I'm based in Cairo, EG
 * 🖥️  See my portfolio at [ammarabbas.com](http://www.ammarabbas.com)
-* ✉️  You can contact me at [dev@ammarabbas.com](mailto:dev@ammarabbas.com)
+* ✉️  You can contact me at [amarabas9733@@gmail.com](mailto:amarabas9733@@gmail.com)
 * 🚀  I'm currently working on [a Discord Clone](http://github.com/Amar2Kk/Ziscord)
-* 🧠  I'm learning Mobile IOS development, Algorithms and Data structures
+* 🧠  I'm learning Algorithms and Data structures, Mobile IOS development(swift)
 * 🤝  I'm open to collaborating on web application projects
 * ⚡  I love Video Games
 
