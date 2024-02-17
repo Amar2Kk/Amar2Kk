@@ -6,7 +6,7 @@ Hi 👋 My name is Ammar Abbas
 a Full-stack Web Developer
 --------------------------
 
-Full Stack Web Developer with a strong background in front-end development, including HTML, CSS, JavaScript, TypeScript, React.js, and Next.js. Proficient in crafting sleek UIs with TailwindCSS. Backend skills include Node.js and Express.js, with proficiency in database management using MongoDB and MySQL.
+I have a strong background in front-end development, including HTML, CSS, JavaScript, TypeScript, React.js, and Next.js. Proficient in crafting sleek UIs with TailwindCSS. Backend skills include Node.js and Express.js, with proficiency in database management using MongoDB and MySQL.
 
 * 🌍  I'm based in Cairo, EG
 * 🖥️  See my portfolio at [ammarabbas.com](http://www.ammarabbas.com)
